@@ -10,7 +10,7 @@
     "build:server": "webpack -p --hide-modules --config ./build/webpack.server.conf.js",
     "server": "node dev/server/server.js"
   },
-  "author": "TheoXiong",
+  "author": "brunolr22",
   "license": "MIT",
   "dependencies": {
     "lodash.throttle": "^4.1.1",
@@ -70,12 +70,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheoXiong/vue-table-dynamic.git"
+    "url": "git+https://github.com/brunolara/vue-table-dynamic.git"
   },
   "bugs": {
-    "url": "https://github.com/TheoXiong/vue-table-dynamic/issues"
+    "url": "https://github.com/brunolara/vue-table-dynamic/issues"
   },
-  "homepage": "https://github.com/TheoXiong/vue-table-dynamic#readme",
+  "homepage": "https://github.com/brunolara/vue-table-dynamic#readme",
   "directories": {
     "doc": "docs"
   }
