@@ -1,6 +1,6 @@
 {
   "name": "@brunolr22/vue-table-dynamic-with-slot",
-  "version": "0.3.1",
+  "version": "0.0.2",
   "description": "A vue component of dynamic table",
   "main": "dist/index.min.js",
   "scripts": {
