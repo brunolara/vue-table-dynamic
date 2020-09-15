@@ -397,7 +397,7 @@ const textOverflowList = ['clip', 'ellipsis']
 const scrollbarDisplayList = ['hover', 'show', 'hidden']
 
 export default {
-  name: 'VueTableDynamic',
+  name: 'VueTableDynamicWithScope',
   data() {
     return {
       tableData: {},

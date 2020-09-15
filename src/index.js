@@ -1,7 +1,7 @@
-import VueTableDynamic from './components/VueTableDynamic.vue'
+import VueTableDynamicWithScope from './components/VueTableDynamicWithScope.vue'
 
-VueTableDynamic.install = function (Vue, options) {
+VueTableDynamicWithScope.install = function (Vue, options) {
   Vue.component('VueTableDynamic', VueTableDynamic)
 }
 
-export default VueTableDynamic
+export default VueTableDynamicWithScope
