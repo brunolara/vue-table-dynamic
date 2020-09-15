@@ -1,10 +1,10 @@
 {
-  "name": "vue-table-dynamic",
+  "name": "@brunolr22/vue-table-dynamic-with-slot",
   "version": "0.3.1",
   "description": "A vue component of dynamic table",
   "main": "dist/index.min.js",
   "scripts": {
-    "dev": "node_modules/.bin/webpack-dev-server --config ./build/webpack.dev.conf.js --open --hot",
+    "dev": "webpack-dev-server --config ./build/webpack.dev.conf.js --open --hot",
     "build": "webpack -p --hide-modules --config ./build/webpack.prod.conf.js",
     "build:doc": "webpack -p --hide-modules --config ./build/webpack.doc.conf.js",
     "build:server": "webpack -p --hide-modules --config ./build/webpack.server.conf.js",
@@ -75,5 +75,8 @@
   "bugs": {
     "url": "https://github.com/TheoXiong/vue-table-dynamic/issues"
   },
-  "homepage": "https://github.com/TheoXiong/vue-table-dynamic#readme"
+  "homepage": "https://github.com/TheoXiong/vue-table-dynamic#readme",
+  "directories": {
+    "doc": "docs"
+  }
 }
