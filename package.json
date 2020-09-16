@@ -1,7 +1,7 @@
 {
   "name": "@brunolr22/vue-table-dynamic-with-slot",
-  "version": "0.0.3",
-  "description": "A vue component of dynamic table",
+  "version": "0.0.31",
+  "description": "A vue component of dynamic table with slot",
   "main": "dist/index.min.js",
   "scripts": {
     "dev": "webpack-dev-server --config ./build/webpack.dev.conf.js --open --hot",
